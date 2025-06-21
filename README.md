@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&fontColor=white&height=250&section=header&text=Minkyu%20Kim&animation=scaleIn&fontSize=80&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0ba360,3cba92&fontColor=white&height=220&section=header&text=Minkyu%20Kim&animation=twinkling&fontSize=85&fontAlignY=40"/>
 </p>
+
 
 
 
