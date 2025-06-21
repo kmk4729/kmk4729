@@ -1,5 +1,3 @@
-### 항상 열심히 차근차근 채워나가자
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=Minkyu%20Kim&animation=twinkling&fontSize=90&fontAlignY=40"/>
 </p>
@@ -13,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -70,11 +67,11 @@
 
 ### :purple_heart: Career
 
-| **구분**      | **기간**           | **내용**                                                         | **비고**                |
+| **기간**           | **내용**                                                         | **비고**                |
 |---------------|--------------------|------------------------------------------------------------------|-------------------------|
-| **학부**      | 2019. 3 ~ 2025. 2  | 경희대학교 소프트웨어융합학과                                     | 졸업                    |
-| **군 복무**   | 2020. 5 ~ 2021. 11 | 육군 병장 만기전역                                               |                        |
-| **프로젝트**  | 2021~2025          | On-device AI 얼굴 인식, 3D Point Cloud Rubik’s Cube Solver 등     | 컴퓨터 비전/임베디드    |
+|  2019. 3 ~ 2025. 2  | 경희대학교 소프트웨어융합학과                                     | 졸업                    |
+| 2025.1  ~ 2025. 12 | 삼성청년 SW 아카데미(SSAFY) 임베디드 로봇 트랙                                               |                        |
+
 
 ***
 
