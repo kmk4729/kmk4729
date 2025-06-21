@@ -61,7 +61,7 @@
 ### 🏅 Baekjoon (BOJ)
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013"/>
   <img src="https://mazandi.herokuapp.com/api?handle=YOUR_BOJ_ID&theme=warm"/>
 </p>
 
