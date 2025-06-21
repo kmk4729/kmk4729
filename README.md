@@ -11,25 +11,32 @@
 
 ***
 
-### 🏆 대표 프로젝트
+# 🏆 대표 프로젝트
 
-#### 🟢 On-device AI 기반 얼굴 인식 출입 카메라
-- **설명:** Raspberry Pi 4에서 실시간 얼굴 인식, 신규 사용자 학습, 모델 갱신까지 모두 처리하는 임베디드 AI 시스템  
-- **주요 기술:** Python, OpenCV, Dlib(HOG, 68 Landmark), MobileNetV2, 멀티태스킹, 리소스 최적화  
-- **특징:** 저사양 환경에서 실시간성과 보안성을 모두 확보  
+---
+
+## 🟢 On-device AI 기반 얼굴 인식 출입 카메라
+
+- **설명:** 클라우드 서버 없이 Raspberry Pi 4와 같은 저사양 임베디드 디바이스에서 실시간 얼굴 인식, 신규 사용자 학습, 모델 갱신까지 모두 처리하는 AI 출입 시스템입니다.
+- **주요 기술:** Python, OpenCV, Dlib(HOG, 68 Landmark), MobileNetV2, 멀티태스킹, 리소스 최적화
+- **특징:** 모든 얼굴 데이터와 모델 학습·갱신이 디바이스 내부에서 동작하여 개인정보 보호와 보안성을 강화하며, 저사양 환경에서도 실시간 출입 관리가 가능합니다.
+
 <p align="center">
   <img src="https://cdn.mathpix.com/cropped/2025_04_15_080860c48c99f2af3a14g-01.jpg?height=180" width="320">
 </p>
 
-#### 🟦 3D Point Cloud 기반 Rubik's Cube Solver
-- **설명:** 사진 두 장만으로 큐브를 3D 포인트클라우드로 복원, 색상 자동 분석, 해법 자동 출력까지 구현  
-- **주요 기술:** Python, C++, openMVG, openMVS, RANSAC, DBSCAN, ICP, HSV 색공간, 내분점 공식  
-- **특징:** NxN 큐브 확장성, 앱 개발 가능성, 실시간 3D 데이터 파이프라인 설계  
+---
+
+## 🟦 3D Point Cloud 기반 Rubik's Cube Solver
+
+- **설명:** 사진 두 세트만으로 루빅스 큐브의 3D 포인트클라우드를 복원하고, 각 면의 색상을 자동 분석해 큐브 상태 문자열을 생성한 뒤, 두 단계 큐브 솔버로 최적 해법을 자동 출력하는 시스템입니다.
+- **주요 기술:** Python, C++, openMVG, openMVS, RANSAC, DBSCAN, ICP, HSV 색공간, 내분점 공식
+- **특징:** NxN 큐브로 확장 가능하며, 실시간 3D 데이터 파이프라인과 자동 색상 인식, 해법 출력까지 통합되어 앱/웹 등 다양한 서비스로 발전시킬 수 있습니다.
+
 <p align="center">
   <img src="https://cdn.mathpix.com/cropped/2025_04_15_5f93f507ba5674c5e89cg-01.jpg?height=180" width="320">
 </p>
-
-***
+---
 
 ### 📊 Github Stats
 
