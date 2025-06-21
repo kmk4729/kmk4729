@@ -12,7 +12,7 @@
 
 #### 🟢 On-device AI 기반 얼굴 인식 출입 카메라
 - **설명:** Raspberry Pi 4에서 실시간 얼굴 인식, 신규 사용자 학습, 모델 갱신까지 모두 처리하는 임베디드 AI 시스템  
-- **주요 기술:** Python, OpenCV, Dlib(HOG, 68 Landmark), SVM, MobileNetV2, 멀티태스킹, 리소스 최적화  
+- **주요 기술:** Python, OpenCV, Dlib(HOG, 68 Landmark), MobileNetV2, 멀티태스킹, 리소스 최적화  
 - **특징:** 저사양 환경에서 실시간성과 보안성을 모두 확보  
 <p align="center">
   <img src="https://cdn.mathpix.com/cropped/2025_04_15_080860c48c99f2af3a14g-01.jpg?height=180" width="320">
