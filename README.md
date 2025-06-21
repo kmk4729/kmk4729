@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -56,6 +55,16 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_ID&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </p>
+
+***
+
+### 🏅 Baekjoon (BOJ)
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID"/>
+  <img src="https://mazandi.herokuapp.com/api?handle=YOUR_BOJ_ID&theme=warm"/>
+</p>
+
 
 ***
 
