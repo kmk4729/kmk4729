@@ -45,10 +45,10 @@
 
 <p align="center">
   <a href="https://github.com/kmk4729">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Minkyu's github stats" />
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=kmk4729&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="Minkyu's github stats" />
   </a>
   <a href="https://github.com/kmk4729">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" />
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" />
   </a> 
 </p>
 <p align="center">
