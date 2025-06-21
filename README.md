@@ -7,12 +7,13 @@
 ***
 
 <h3 align="center">
-  🎯 Tech Stack 🎯
+  🚀 Tech Stack 🚀
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -20,10 +21,10 @@
 
 ***
 
-### 📌 대표 프로젝트
+### 🏆 대표 프로젝트
 
 #### 🟢 On-device AI 기반 얼굴 인식 출입 카메라
-- **설명:** Raspberry Pi 4에서 실시간 얼굴 인식, 신규 사용자 학습, 모델 갱신까지 모두 처리하는 임베디드 AI 시스템
+- **설명:** Raspberry Pi 4에서 실시간 얼굴 인식, 신규 사용자 학습, 모델 갱신까지 모두 처리하는 임베디드 AI 시스템  
 - **주요 기술:** Python, OpenCV, Dlib(HOG, 68 Landmark), SVM, MobileNetV2, 멀티태스킹, 리소스 최적화  
 - **특징:** 저사양 환경에서 실시간성과 보안성을 모두 확보  
 <p align="center">
@@ -31,7 +32,7 @@
 </p>
 
 #### 🟦 3D Point Cloud 기반 Rubik's Cube Solver
-- **설명:** 두 장의 사진만으로 큐브를 3D 포인트클라우드로 복원, 색상 자동 분석, 해법 자동 출력까지 구현
+- **설명:** 사진 두 장만으로 큐브를 3D 포인트클라우드로 복원, 색상 자동 분석, 해법 자동 출력까지 구현  
 - **주요 기술:** Python, C++, openMVG, openMVS, RANSAC, DBSCAN, ICP, HSV 색공간, 내분점 공식  
 - **특징:** NxN 큐브 확장성, 앱 개발 가능성, 실시간 3D 데이터 파이프라인 설계  
 <p align="center">
@@ -50,20 +51,24 @@
     <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" />
   </a> 
 </p>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p>
 
 ***
 
-### 🏅 Baekjoon (BOJ)
+### 🏅 Baekjoon (BOJ) Online Judge
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013"/>
   <img src="https://mazandi.herokuapp.com/api?handle=mk1013&theme=warm"/>
 </p>
 
-
 ***
 
-### 🏆 활동 이력
+### :purple_heart: Career
 
 | **구분**      | **기간**           | **내용**                                                         | **비고**                |
 |---------------|--------------------|------------------------------------------------------------------|-------------------------|
@@ -84,6 +89,6 @@
 ***
 
 <!---
-YOUR_GITHUB_ID/YOUR_GITHUB_ID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kmk4729/kmk4729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
