@@ -42,11 +42,6 @@
     <img align="center" style="height:180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kmk4729&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" />
   </a> 
 </p>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
 
 
 ***
