@@ -68,13 +68,45 @@
 
 ***
 
+### 📝 Blog & Portfolio
+
+<p align="center">
+  <a href="https://kmk4729.github.io">
+    <img src="https://img.shields.io/badge/Tech%20Blog-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+**🌐 [kmk4729.github.io](https://kmk4729.github.io)**
+알고리즘, 프로젝트, 실험, 리뷰 등 기술적인 내용을 기록하는 개인 블로그입니다.
+
+***
+
 ### 👋 About Me
 
 - 👀 컴퓨터 비전, 임베디드 시스템, 실시간 데이터 처리에 관심이 많습니다.
 - 🧑‍💻 실제 하드웨어 환경에서 동작하는 프로젝트를 주도적으로 수행해왔습니다.
 - 🌱 새로운 기술 습득과 문제 해결에 몰입하는 것을 좋아합니다.
 - 💬 협업과 소통, 그리고 꾸준한 성장에 가치를 둡니다.
-- 📫 **Contact:** kmk4729@naver.com
+
+***
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:kmk4729@naver.com">
+    <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/kmk4729">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://kmk4729.github.io">
+    <img src="https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>📧 kmk4729@naver.com</strong>
+</p>
 
 ***
 
