@@ -112,20 +112,26 @@ RealSense 카메라 기반 로봇 손가락용 실시간 RGB/Depth 스트리밍 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmk4729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <a href="https://solved.ac/mk1013">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013"/>
+<p align="center">
+  <a href="https://github.com/kmk4729">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmk4729&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   </a>
-</div>
+  <a href="https://github.com/kmk4729">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</div>
+<p align="center">
+  <a href="https://solved.ac/mk1013">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013" alt="Solved.ac Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Hits"/>
+  </a>
+</p>
 
 ---
 
