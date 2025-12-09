@@ -113,14 +113,18 @@ RealSense 카메라 기반 로봇 손가락용 실시간 RGB/Depth 스트리밍 
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kmk4729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&theme=tokyonight"/>
+</div>
 
-![Minkyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmk4729&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmk4729&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/kmk4729)
+<div align="center">
+  <a href="https://solved.ac/mk1013">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013"/>
+  </a>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mk1013)](https://solved.ac/mk1013)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
-
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmk4729&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 
 ---
